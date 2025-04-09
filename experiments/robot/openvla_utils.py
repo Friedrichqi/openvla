@@ -3,7 +3,7 @@
 import json
 import os
 import time
-
+import pdb
 import numpy as np
 import tensorflow as tf
 import torch
@@ -49,7 +49,12 @@ def get_vla(cfg):
         low_cpu_mem_usage=True,
         trust_remote_code=True,
     )
-
+    
+    parent_path = os.path.dirname(__file__)
+    # import sys
+    # sys.stdout = open(os.path.join(parent_path, "openvla_architecture.txt"), "w")
+    # print(vla)
+    # pdb.set_trace()
     # Move model to device.
     # Note: `.to()` is not supported for 8-bit or 4-bit bitsandbytes models, but the model will
     #       already be set to the right devices and casted to the correct dtype upon loading.

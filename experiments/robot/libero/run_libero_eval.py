@@ -145,6 +145,7 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
     # Start evaluation
     total_episodes, total_successes = 0, 0
+    cnt = 0
     for task_id in tqdm.tqdm(range(num_tasks_in_suite)):
         # Get task
         task = task_suite.get_task(task_id)
@@ -215,15 +216,29 @@ def eval_libero(cfg: GenerateConfig) -> None:
                         task_description,
                         processor=processor,
                     )
+                    
+                    cnt += 1
+                    dir_path = os.path.expanduser(f'~/openvla/similarity_figures/{cfg.task_suite_name}/')
 
-                    # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
-                    action = normalize_gripper_action(action, binarize=True)
+                    with open(os.path.join(dir_path, f'similarity_matrix_{cnt*7}_action.txt'), 'w') as f:
+                        # print("Original action:", action)
+                        f.write(f"Original action: {action}\n")
 
-                    # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
-                    # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
-                    if cfg.model_family == "openvla":
-                        action = invert_gripper_action(action)
+                        # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
+                        action = normalize_gripper_action(action, binarize=True)
 
+                        # print("Normalized action:", action)
+                        f.write(f"Normalized action: {action}\n")
+
+                        # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
+                        # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
+                        if cfg.model_family == "openvla":
+                            action = invert_gripper_action(action)
+
+                        # print("Gripper action", action)
+                        f.write(f"Gripper action: {action}\n")
+
+                    # import pdb; pdb.set_trace()
                     # Execute action in environment
                     obs, reward, done, info = env.step(action.tolist())
                     if done:
