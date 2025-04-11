@@ -27,6 +27,7 @@ import draccus
 import numpy as np
 import tqdm
 from libero.libero import benchmark
+from rich import print as rprint
 
 import wandb
 
@@ -221,13 +222,11 @@ def eval_libero(cfg: GenerateConfig) -> None:
                     dir_path = os.path.expanduser(f'~/openvla/similarity_figures/{cfg.task_suite_name}/')
 
                     with open(os.path.join(dir_path, f'similarity_matrix_{cnt*7}_action.txt'), 'w') as f:
-                        # print("Original action:", action)
                         f.write(f"Original action: {action}\n")
 
                         # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
                         action = normalize_gripper_action(action, binarize=True)
 
-                        # print("Normalized action:", action)
                         f.write(f"Normalized action: {action}\n")
 
                         # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
@@ -235,7 +234,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
                         if cfg.model_family == "openvla":
                             action = invert_gripper_action(action)
 
-                        # print("Gripper action", action)
                         f.write(f"Gripper action: {action}\n")
 
                     # import pdb; pdb.set_trace()

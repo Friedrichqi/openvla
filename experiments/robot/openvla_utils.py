@@ -9,6 +9,7 @@ import tensorflow as tf
 import torch
 from PIL import Image
 from transformers import AutoConfig, AutoImageProcessor, AutoModelForVision2Seq, AutoProcessor
+from rich import print as rprint
 
 from prismatic.extern.hf.configuration_prismatic import OpenVLAConfig
 from prismatic.extern.hf.modeling_prismatic import OpenVLAForActionPrediction
@@ -53,7 +54,7 @@ def get_vla(cfg):
     parent_path = os.path.dirname(__file__)
     # import sys
     # sys.stdout = open(os.path.join(parent_path, "openvla_architecture.txt"), "w")
-    # print(vla)
+    # rprint(f"[bold red]{type(vla)}[/bold red]")
     # pdb.set_trace()
     # Move model to device.
     # Note: `.to()` is not supported for 8-bit or 4-bit bitsandbytes models, but the model will
@@ -171,5 +172,8 @@ def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, c
     inputs = processor(prompt, image).to(DEVICE, dtype=torch.bfloat16)
 
     # Get action.
+    # rprint(f"vla type: [bold red]{type(vla)}[/bold red]")
+    # rprint(f"inputs type: [bold red]{type(inputs)}[/bold red]")
+    # rprint(f"inputs: [bold red]{inputs}[/bold red]")
     action = vla.predict_action(**inputs, unnorm_key=unnorm_key, do_sample=False)
     return action
