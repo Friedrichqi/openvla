@@ -87,6 +87,10 @@ class GenerateConfig:
 
     # fmt: on
 
+    # ----- Begin of Inserted Code -----
+    # multi_exit: bool = False # Whether to use multi-exit (for OpenVLA only)
+    # ----- End of Inserted Code -----
+
 
 @draccus.wrap()
 def eval_libero(cfg: GenerateConfig) -> None:
@@ -217,26 +221,27 @@ def eval_libero(cfg: GenerateConfig) -> None:
                         task_description,
                         processor=processor,
                     )
-                    
-                    cnt += 1
-                    dir_path = os.path.expanduser(f'~/openvla/similarity_figures/{cfg.task_suite_name}/')
+                    original_action = action
 
-                    with open(os.path.join(dir_path, f'similarity_matrix_{cnt*7}_action.txt'), 'w') as f:
-                        f.write(f"Original action: {action}\n")
+                    # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
+                    action = normalize_gripper_action(action, binarize=True)
+                    normalized_action = action
 
-                        # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
-                        action = normalize_gripper_action(action, binarize=True)
+                    # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
+                    # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
+                    if cfg.model_family == "openvla":
+                        action = invert_gripper_action(action)
+                    gripper_action = action
+                    # cnt += 1
+                    # dir_path = os.path.expanduser(f'~/openvla/similarity_figures/{cfg.task_suite_name}/')
 
-                        f.write(f"Normalized action: {action}\n")
+                    # with open(os.path.join(dir_path, f'similarity_matrix_{cnt*7}_action.txt'), 'w') as f:
+                    #     f.write(f"Original action: {original_action}\n")
 
-                        # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
-                        # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
-                        if cfg.model_family == "openvla":
-                            action = invert_gripper_action(action)
+                    #     f.write(f"Normalized action: {normalized_action}\n")
 
-                        f.write(f"Gripper action: {action}\n")
+                    #     f.write(f"Gripper action: {gripper_action}\n")
 
-                    # import pdb; pdb.set_trace()
                     # Execute action in environment
                     obs, reward, done, info = env.step(action.tolist())
                     if done:
