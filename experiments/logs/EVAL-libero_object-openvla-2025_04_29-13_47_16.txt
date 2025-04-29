@@ -139,3 +139,59 @@ Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=20-
 Success: True
 # episodes completed so far: 20
 # successes: 15 (75.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=21--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 16 (76.2%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=22--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 22
+# successes: 17 (77.3%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=23--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 17 (73.9%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=24--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 18 (75.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=25--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 19 (76.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=26--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 20 (76.9%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=27--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 21 (77.8%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_04_29/2025_04_29-13_47_16--episode=28--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 21 (75.0%)
