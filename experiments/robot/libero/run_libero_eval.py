@@ -166,6 +166,7 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
         # Start episodes
         task_episodes, task_successes = 0, 0
+        total_steps = 0
         for episode_idx in tqdm.tqdm(range(cfg.num_trials_per_task)):
             print(f"\nTask: {task_description}")
             log_file.write(f"\nTask: {task_description}\n")
@@ -178,7 +179,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
             # Setup
             t = 0
-            total_steps = 0
             replay_images = []
             if cfg.task_suite_name == "libero_spatial":
                 max_steps = 220  # longest training demo has 193 steps
