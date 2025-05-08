@@ -25,11 +25,14 @@ from typing import Optional, Union
 
 import draccus
 import numpy as np
+from PIL import Image, ImageDraw, ImageFont
 import tqdm
 from libero.libero import benchmark
 from rich import print as rprint
 
 import wandb
+
+import pdb
 
 # Append current directory so that interpreter can find experiments.robot
 sys.path.append("../..")
@@ -175,6 +178,7 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
             # Setup
             t = 0
+            total_steps = 0
             replay_images = []
             if cfg.task_suite_name == "libero_spatial":
                 max_steps = 220  # longest training demo has 193 steps
@@ -201,6 +205,20 @@ def eval_libero(cfg: GenerateConfig) -> None:
                     # Get preprocessed image
                     img = get_libero_image(obs, resize_size)
 
+                    # ----- Begin of qyjh Inserted Code -----
+                    img_pil = Image.fromarray(img)
+                    draw = ImageDraw.Draw(img_pil)
+                    try:
+                        font = ImageFont.truetype("arial.ttf", 20)
+                    except IOError:
+                        font = ImageFont.load_default()
+
+                    text_to_display = f"Step: {t}"
+                    text_color = (255, 255, 255)
+                    text_position = (10, 10)
+                    draw.text(text_position, text_to_display, fill=text_color, font=font)
+                    img = np.array(img_pil)
+                    # ----- End of qyjh Inserted Code -----
                     # Save preprocessed image for replay video
                     replay_images.append(img)
 
@@ -270,6 +288,10 @@ def eval_libero(cfg: GenerateConfig) -> None:
             log_file.write(f"Success: {done}\n")
             log_file.write(f"# episodes completed so far: {total_episodes}\n")
             log_file.write(f"# successes: {total_successes} ({total_successes / total_episodes * 100:.1f}%)\n")
+            # ----- Begin of qyjh Inserted Code -----
+            total_steps += t
+            log_file.write(f"Average steps: {total_steps / task_episodes}")
+            # ----- End of qyjh Inserted Code -----
             log_file.flush()
 
         # Log final results
