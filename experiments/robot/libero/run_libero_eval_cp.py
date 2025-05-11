@@ -22,8 +22,6 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Union
-import random
-import time
 
 import draccus
 import numpy as np
@@ -31,11 +29,10 @@ from PIL import Image, ImageDraw, ImageFont
 import tqdm
 from libero.libero import benchmark
 from rich import print as rprint
-from peft import PeftModel, PeftConfig
+
 import wandb
-import copy
+
 import pdb
-import json
 
 # Append current directory so that interpreter can find experiments.robot
 sys.path.append("../..")
@@ -159,9 +156,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
     cnt = 0
     for task_id in tqdm.tqdm(range(num_tasks_in_suite)):
         # Get task
-        # ----- Begin of qyjh Inserted Code -----
-        task_id=0
-        # ----- End of qyjh Inserted Code -----
         task = task_suite.get_task(task_id)
 
         # Get default LIBERO initial states
@@ -174,13 +168,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
         task_episodes, task_successes = 0, 0
         total_steps = 0
         for episode_idx in tqdm.tqdm(range(cfg.num_trials_per_task)):
-            # ----- Begin of qyjh Inserted Code -----
-            random.seed(int(time.time()))
-            # scale = random.choice([[20,60], [60,100], [100,140]])
-            # ber = round(random.choice([0.1 * i for i in range(1, 6)]), 1)
-            scale=[]
-            ber = 0
-            # ----- End of qyjh Inserted Code -----
             print(f"\nTask: {task_description}")
             log_file.write(f"\nTask: {task_description}\n")
 
@@ -193,7 +180,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
             # Setup
             t = 0
             replay_images = []
-            action_previous = None
             if cfg.task_suite_name == "libero_spatial":
                 max_steps = 220  # longest training demo has 193 steps
             elif cfg.task_suite_name == "libero_object":
@@ -253,57 +239,12 @@ def eval_libero(cfg: GenerateConfig) -> None:
                         task_description,
                         processor=processor,
                         step=t,
-                        scale=scale,
-                        ber=ber,
                     )
-
-                    replan = False
-                    if replan:
-                        if action_previous is None:
-                            action_previous = np.array(copy.deepcopy(action).tolist())
-                            actions_previous_xyz = action_previous[0:3]
-                            actions_previous_rot = action_previous[3:6]
-                        else:
-                            action_now = np.array(copy.deepcopy(action).tolist())
-                            actions_xyz = action_now[0:3]
-                            actions_rot = action_now[3:6]
-                            xyz_fudu = np.linalg.norm(actions_xyz, ord=2)
-                            rot_fudu = np.linalg.norm(actions_rot, ord=2)
-                            previous_xyz_fudu = np.linalg.norm(actions_previous_xyz, ord=2)
-                            previous_rot_fudu = np.linalg.norm(actions_previous_rot, ord=2)
-
-                            xyz_changes_dir = min(np.dot(actions_xyz, actions_previous_xyz)/(xyz_fudu * previous_xyz_fudu+1e-6), 1)
-                            rot_changes_dir = min(np.dot(actions_rot, actions_previous_rot)/(rot_fudu * previous_rot_fudu+1e-6), 1)
-
-                            
-                            # ----- Begin of qyjh Inserted Code -----
-                            dir_path = os.path.expanduser("~/openvla/experiments/logs")
-                            motion_trace_path = os.path.join(dir_path, "motion_trace.out")
-                            log_entry = (
-                                f"{xyz_fudu:.4f}, {xyz_changes_dir:.4f}, {rot_fudu:.4f}, {rot_changes_dir:.4f}\n"
-                            )
-                            with open(motion_trace_path, "a") as f:
-                                f.write(log_entry)
-                            # ----- End of qyjh Inserted Code -----
-                            # if xyz_changes_dir < -0.1 or rot_changes_dir < -0.1 or xyz_fudu<0.04 or rot_fudu<0.04:
-                            #     exit_state = copy.deepcopy(model.language_model.model.multi_exit)
-                            #     model.language_model.model.multi_exit = False
-                            #     action = get_action(
-                            #         cfg,
-                            #         model,
-                            #         observation,
-                            #         task_description,
-                            #         processor=processor,
-                            #     )
-                            #     model.language_model.model.multi_exit = exit_state
-                            #     model.language_model.model.replan_num += 1
-                            
-                            action_previous = np.array(copy.deepcopy(action).tolist())
-                            actions_previous_xyz = action_previous[0:3]
-                            actions_previous_rot = action_previous[3:6]
+                    original_action = action
 
                     # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
                     action = normalize_gripper_action(action, binarize=True)
+                    normalized_action = action
 
                     # [OpenVLA] The dataloader flips the sign of the gripper action to align with other datasets
                     # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
@@ -336,29 +277,6 @@ def eval_libero(cfg: GenerateConfig) -> None:
             task_episodes += 1
             total_episodes += 1
 
-            # ----- Begin of qyjh Inserted Code -----
-            file_path = os.path.expanduser(f"~/openvla/experiments/logs/{task_description}_log.json")
-            if os.path.exists(file_path):
-                with open(file_path, 'r') as f:
-                    data = json.load(f)
-            else:
-                data = {}
-            
-            if str(scale) not in data:
-                data[str(scale)] = {}
-            if str(ber) not in data[str(scale)]:
-                data[str(scale)][str(ber)] = {
-                    "total_times": 0,
-                    "success_times": 0
-                }
-            data[str(scale)][str(ber)]["total_times"] += 1
-            if done:
-                data[str(scale)][str(ber)]["success_times"] += 1
-
-            with open(file_path, 'w') as f:
-                json.dump(data, f, indent=4)
-
-            # ----- End of qyjh Inserted Code -----
             # Save a replay video of the episode
             save_rollout_video(
                 replay_images, total_episodes, success=done, task_description=task_description, log_file=log_file

@@ -26,8 +26,6 @@ import transformers
 from timm.models.vision_transformer import LayerScale
 from transformers import AutoModelForCausalLM, PretrainedConfig, PreTrainedModel
 from transformers.modeling_outputs import ModelOutput
-import pdb
-from rich import print as rprint
 
 from .configuration_prismatic import OpenVLAConfig, PrismaticConfig
 
@@ -303,6 +301,7 @@ class PrismaticForConditionalGeneration(PrismaticPreTrainedModel):
         output_hidden_states: Optional[bool] = None,
         output_projector_features: Optional[bool] = None,
         return_dict: Optional[bool] = None,
+        **kwargs,
     ) -> Union[Tuple, PrismaticCausalLMOutputWithPast]:
         """Run a forward pass through the VLM, returning a PrismaticCausalLMOutputWithPast instance."""
         output_attentions = output_attentions if output_attentions is not None else self.config.output_attentions
@@ -340,6 +339,7 @@ class PrismaticForConditionalGeneration(PrismaticPreTrainedModel):
                 output_attentions=output_attentions,
                 output_hidden_states=output_hidden_states,
                 return_dict=return_dict,
+                **kwargs,
             )
 
         # === Handle Unimodal Forward ===
@@ -358,6 +358,7 @@ class PrismaticForConditionalGeneration(PrismaticPreTrainedModel):
                 output_attentions=output_attentions,
                 output_hidden_states=output_hidden_states,
                 return_dict=return_dict,
+                **kwargs,
             )
 
         # === Handle Multimodal Forward ===
@@ -414,6 +415,7 @@ class PrismaticForConditionalGeneration(PrismaticPreTrainedModel):
                 output_attentions=output_attentions,
                 output_hidden_states=output_hidden_states,
                 return_dict=return_dict,
+                **kwargs,
             )
 
         # === Otherwise =>> Assume Invalid! ===
@@ -506,7 +508,7 @@ class OpenVLAForActionPrediction(PrismaticForConditionalGeneration):
         self.vocab_size = self.config.text_config.vocab_size - self.config.pad_to_multiple_of
 
     def predict_action(
-        self, input_ids: Optional[torch.LongTensor] = None, unnorm_key: Optional[str] = None, **kwargs: str
+        self, input_ids: Optional[torch.LongTensor] = None, unnorm_key: Optional[str] = None, **kwargs
     ) -> np.ndarray:
         """Thin wrapper around .generate() that decodes predicted actions and unnormalizes them."""
         # If the special empty token ('') does not already appear after the colon (':') token in the prompt

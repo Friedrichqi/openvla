@@ -1,0 +1,2170 @@
+Task suite: libero_object
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=1--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Average steps: 212.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=2--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+Average steps: 251.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=3--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 2 (66.7%)
+Average steps: 219.66666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=4--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 2 (50.0%)
+Average steps: 237.25
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=5--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 3 (60.0%)
+Average steps: 221.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=6--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 4 (66.7%)
+Average steps: 208.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=7--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 4 (57.1%)
+Average steps: 220.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=8--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 5 (62.5%)
+Average steps: 223.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=9--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 6 (66.7%)
+Average steps: 212.77777777777777
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=10--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 7 (70.0%)
+Average steps: 209.9
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=11--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 8 (72.7%)
+Average steps: 209.0909090909091
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=12--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 12
+# successes: 8 (66.7%)
+Average steps: 215.83333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=13--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 13
+# successes: 9 (69.2%)
+Average steps: 217.30769230769232
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=14--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 9 (64.3%)
+Average steps: 222.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=15--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 15
+# successes: 10 (66.7%)
+Average steps: 219.46666666666667
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=16--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 10 (62.5%)
+Average steps: 223.875
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=17--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 17
+# successes: 11 (64.7%)
+Average steps: 220.11764705882354
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=18--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 18
+# successes: 12 (66.7%)
+Average steps: 216.11111111111111
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=19--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 12 (63.2%)
+Average steps: 220.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=20--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 20
+# successes: 12 (60.0%)
+Average steps: 223.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=21--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 13 (61.9%)
+Average steps: 222.95238095238096
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=22--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 13 (59.1%)
+Average steps: 226.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=23--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 13 (56.5%)
+Average steps: 228.7826086956522
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=24--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 14 (58.3%)
+Average steps: 225.375
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=25--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 15 (60.0%)
+Average steps: 222.4
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=26--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 16 (61.5%)
+Average steps: 221.19230769230768
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=27--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 17 (63.0%)
+Average steps: 218.07407407407408
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=28--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 18 (64.3%)
+Average steps: 215.67857142857142
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=29--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 18 (62.1%)
+Average steps: 218.24137931034483
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=30--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 30
+# successes: 19 (63.3%)
+Average steps: 216.86666666666667
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=31--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 31
+# successes: 19 (61.3%)
+Average steps: 219.2258064516129
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=32--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 32
+# successes: 20 (62.5%)
+Average steps: 218.78125
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=33--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 33
+# successes: 21 (63.6%)
+Average steps: 216.54545454545453
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=34--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 34
+# successes: 22 (64.7%)
+Average steps: 216.76470588235293
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=35--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 35
+# successes: 22 (62.9%)
+Average steps: 218.85714285714286
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=36--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 36
+# successes: 22 (61.1%)
+Average steps: 220.83333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=37--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 37
+# successes: 22 (59.5%)
+Average steps: 222.7027027027027
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=38--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 22 (57.9%)
+Average steps: 224.47368421052633
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=39--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 39
+# successes: 22 (56.4%)
+Average steps: 226.15384615384616
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=40--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 40
+# successes: 22 (55.0%)
+Average steps: 227.75
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=41--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 41
+# successes: 22 (53.7%)
+Average steps: 229.26829268292684
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=42--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 42
+# successes: 23 (54.8%)
+Average steps: 228.8095238095238
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=43--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 24 (55.8%)
+Average steps: 226.7674418604651
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=44--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 44
+# successes: 24 (54.5%)
+Average steps: 228.20454545454547
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=45--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 45
+# successes: 25 (55.6%)
+Average steps: 226.22222222222223
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=46--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 46
+# successes: 26 (56.5%)
+Average steps: 225.17391304347825
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=47--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 47
+# successes: 26 (55.3%)
+Average steps: 226.5531914893617
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=48--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 26 (54.2%)
+Average steps: 227.875
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=49--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 49
+# successes: 26 (53.1%)
+Average steps: 229.14285714285714
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=50--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 50
+# successes: 27 (54.0%)
+Average steps: 228.02Current task success rate: 0.54
+Current total success rate: 0.54
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=51--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 51
+# successes: 28 (54.9%)
+Average steps: 186.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=52--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 52
+# successes: 28 (53.8%)
+Average steps: 238.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=53--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 53
+# successes: 28 (52.8%)
+Average steps: 255.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=54--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 54
+# successes: 29 (53.7%)
+Average steps: 236.75
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=55--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 55
+# successes: 29 (52.7%)
+Average steps: 247.4
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=56--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 56
+# successes: 29 (51.8%)
+Average steps: 254.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=57--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 57
+# successes: 30 (52.6%)
+Average steps: 252.85714285714286
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=58--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 58
+# successes: 31 (53.4%)
+Average steps: 240.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=59--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 59
+# successes: 31 (52.5%)
+Average steps: 246.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=60--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 60
+# successes: 32 (53.3%)
+Average steps: 237.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=61--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 61
+# successes: 32 (52.5%)
+Average steps: 242.27272727272728
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=62--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 62
+# successes: 32 (51.6%)
+Average steps: 246.25
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=63--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 63
+# successes: 33 (52.4%)
+Average steps: 247.30769230769232
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=64--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 64
+# successes: 33 (51.6%)
+Average steps: 250.35714285714286
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=65--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 65
+# successes: 34 (52.3%)
+Average steps: 243.2
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=66--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 66
+# successes: 35 (53.0%)
+Average steps: 239.875
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=67--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 67
+# successes: 35 (52.2%)
+Average steps: 242.8235294117647
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=68--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 68
+# successes: 36 (52.9%)
+Average steps: 237.61111111111111
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=69--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 69
+# successes: 37 (53.6%)
+Average steps: 233.6315789473684
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=70--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 70
+# successes: 37 (52.9%)
+Average steps: 236.45
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=71--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 71
+# successes: 38 (53.5%)
+Average steps: 233.1904761904762
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=72--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 72
+# successes: 38 (52.8%)
+Average steps: 235.77272727272728
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=73--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 73
+# successes: 38 (52.1%)
+Average steps: 238.1304347826087
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=74--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 74
+# successes: 39 (52.7%)
+Average steps: 237.08333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=75--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 75
+# successes: 40 (53.3%)
+Average steps: 235.28
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=76--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 76
+# successes: 40 (52.6%)
+Average steps: 237.3846153846154
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=77--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 77
+# successes: 41 (53.2%)
+Average steps: 233.4814814814815
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=78--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 78
+# successes: 42 (53.8%)
+Average steps: 229.89285714285714
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=79--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 79
+# successes: 42 (53.2%)
+Average steps: 231.9655172413793
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=80--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 80
+# successes: 42 (52.5%)
+Average steps: 233.9
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=81--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 81
+# successes: 42 (51.9%)
+Average steps: 235.70967741935485
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=82--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 82
+# successes: 43 (52.4%)
+Average steps: 234.90625
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=83--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 83
+# successes: 44 (53.0%)
+Average steps: 232.75757575757575
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=84--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 84
+# successes: 45 (53.6%)
+Average steps: 231.35294117647058
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=85--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 85
+# successes: 45 (52.9%)
+Average steps: 233.02857142857144
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=86--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 86
+# successes: 45 (52.3%)
+Average steps: 234.61111111111111
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=87--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 87
+# successes: 46 (52.9%)
+Average steps: 233.05405405405406
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=88--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 88
+# successes: 47 (53.4%)
+Average steps: 230.6578947368421
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=89--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 89
+# successes: 48 (53.9%)
+Average steps: 229.30769230769232
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=90--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 90
+# successes: 49 (54.4%)
+Average steps: 228.725
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=91--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 91
+# successes: 49 (53.8%)
+Average steps: 230.21951219512195
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=92--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 92
+# successes: 50 (54.3%)
+Average steps: 230.78571428571428
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=93--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 93
+# successes: 51 (54.8%)
+Average steps: 228.53488372093022
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=94--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 94
+# successes: 51 (54.3%)
+Average steps: 229.9318181818182
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=95--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 95
+# successes: 52 (54.7%)
+Average steps: 228.8
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=96--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 96
+# successes: 52 (54.2%)
+Average steps: 230.1304347826087
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=97--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 97
+# successes: 53 (54.6%)
+Average steps: 230.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=98--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 98
+# successes: 54 (55.1%)
+Average steps: 228.47916666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=99--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 99
+# successes: 54 (54.5%)
+Average steps: 229.73469387755102
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=100--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 100
+# successes: 54 (54.0%)
+Average steps: 230.94Current task success rate: 0.54
+Current total success rate: 0.54
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=101--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 101
+# successes: 55 (54.5%)
+Average steps: 131.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=102--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 102
+# successes: 56 (54.9%)
+Average steps: 146.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=103--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 103
+# successes: 56 (54.4%)
+Average steps: 194.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=104--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 104
+# successes: 57 (54.8%)
+Average steps: 204.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=105--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 105
+# successes: 58 (55.2%)
+Average steps: 191.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=106--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 106
+# successes: 58 (54.7%)
+Average steps: 207.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=107--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 107
+# successes: 58 (54.2%)
+Average steps: 219.28571428571428
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=108--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 108
+# successes: 58 (53.7%)
+Average steps: 228.125
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=109--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 109
+# successes: 59 (54.1%)
+Average steps: 227.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=110--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 110
+# successes: 59 (53.6%)
+Average steps: 233.6
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=111--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 111
+# successes: 59 (53.2%)
+Average steps: 238.72727272727272
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=112--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 112
+# successes: 59 (52.7%)
+Average steps: 243.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=113--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 113
+# successes: 60 (53.1%)
+Average steps: 235.46153846153845
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=114--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 114
+# successes: 61 (53.5%)
+Average steps: 228.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=115--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 115
+# successes: 62 (53.9%)
+Average steps: 228.26666666666668
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=116--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 116
+# successes: 63 (54.3%)
+Average steps: 228.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=117--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 117
+# successes: 64 (54.7%)
+Average steps: 223.7058823529412
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=118--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 118
+# successes: 64 (54.2%)
+Average steps: 227.38888888888889
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=119--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 119
+# successes: 65 (54.6%)
+Average steps: 224.10526315789474
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=120--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 120
+# successes: 66 (55.0%)
+Average steps: 220.4
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=121--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 121
+# successes: 66 (54.5%)
+Average steps: 223.71428571428572
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=122--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 122
+# successes: 67 (54.9%)
+Average steps: 220.5909090909091
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=123--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 123
+# successes: 67 (54.5%)
+Average steps: 223.6086956521739
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=124--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 124
+# successes: 68 (54.8%)
+Average steps: 221.04166666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=125--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 125
+# successes: 69 (55.2%)
+Average steps: 220.64
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=126--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 126
+# successes: 69 (54.8%)
+Average steps: 223.30769230769232
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=127--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 127
+# successes: 70 (55.1%)
+Average steps: 220.4814814814815
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=128--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 128
+# successes: 71 (55.5%)
+Average steps: 217.71428571428572
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=129--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 129
+# successes: 71 (55.0%)
+Average steps: 220.20689655172413
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=130--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 130
+# successes: 72 (55.4%)
+Average steps: 218.9
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=131--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 131
+# successes: 73 (55.7%)
+Average steps: 216.58064516129033
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=132--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 132
+# successes: 73 (55.3%)
+Average steps: 218.875
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=133--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 133
+# successes: 74 (55.6%)
+Average steps: 216.6969696969697
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=134--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 134
+# successes: 75 (56.0%)
+Average steps: 216.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=135--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 135
+# successes: 75 (55.6%)
+Average steps: 218.6
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=136--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 136
+# successes: 76 (55.9%)
+Average steps: 217.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=137--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 137
+# successes: 76 (55.5%)
+Average steps: 218.97297297297297
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=138--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 138
+# successes: 77 (55.8%)
+Average steps: 219.6315789473684
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=139--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 139
+# successes: 78 (56.1%)
+Average steps: 218.66666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=140--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 140
+# successes: 78 (55.7%)
+Average steps: 220.45
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=141--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 141
+# successes: 79 (56.0%)
+Average steps: 218.6341463414634
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=142--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 142
+# successes: 79 (55.6%)
+Average steps: 220.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=143--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 143
+# successes: 80 (55.9%)
+Average steps: 219.95348837209303
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=144--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 144
+# successes: 80 (55.6%)
+Average steps: 221.54545454545453
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=145--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 145
+# successes: 81 (55.9%)
+Average steps: 219.9111111111111
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=146--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 146
+# successes: 82 (56.2%)
+Average steps: 218.8913043478261
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=147--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 147
+# successes: 83 (56.5%)
+Average steps: 219.48936170212767
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=148--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 148
+# successes: 84 (56.8%)
+Average steps: 219.125
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=149--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 149
+# successes: 85 (57.0%)
+Average steps: 219.6734693877551
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=150--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 150
+# successes: 85 (56.7%)
+Average steps: 221.08Current task success rate: 0.62
+Current total success rate: 0.5666666666666667
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=151--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 151
+# successes: 86 (57.0%)
+Average steps: 244.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=152--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 152
+# successes: 86 (56.6%)
+Average steps: 267.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=153--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 153
+# successes: 86 (56.2%)
+Average steps: 274.6666666666667
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=154--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 154
+# successes: 86 (55.8%)
+Average steps: 278.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=155--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 155
+# successes: 87 (56.1%)
+Average steps: 259.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=156--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 156
+# successes: 87 (55.8%)
+Average steps: 264.1666666666667
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=157--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 157
+# successes: 87 (55.4%)
+Average steps: 267.85714285714283
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=158--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 158
+# successes: 88 (55.7%)
+Average steps: 254.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=159--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 159
+# successes: 88 (55.3%)
+Average steps: 258.44444444444446
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=160--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 160
+# successes: 88 (55.0%)
+Average steps: 261.6
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=161--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 161
+# successes: 89 (55.3%)
+Average steps: 253.54545454545453
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=162--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 162
+# successes: 90 (55.6%)
+Average steps: 244.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=163--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 163
+# successes: 91 (55.8%)
+Average steps: 239.6153846153846
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=164--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 164
+# successes: 92 (56.1%)
+Average steps: 238.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=165--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 165
+# successes: 92 (55.8%)
+Average steps: 241.93333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=166--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 166
+# successes: 92 (55.4%)
+Average steps: 244.9375
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=167--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 167
+# successes: 93 (55.7%)
+Average steps: 240.58823529411765
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=168--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 168
+# successes: 94 (56.0%)
+Average steps: 235.61111111111111
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=169--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 169
+# successes: 95 (56.2%)
+Average steps: 231.3684210526316
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=170--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 170
+# successes: 96 (56.5%)
+Average steps: 227.1
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=171--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 171
+# successes: 96 (56.1%)
+Average steps: 230.0952380952381
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=172--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 172
+# successes: 96 (55.8%)
+Average steps: 232.8181818181818
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=173--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 173
+# successes: 96 (55.5%)
+Average steps: 235.30434782608697
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=174--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 174
+# successes: 97 (55.7%)
+Average steps: 233.08333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=175--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 175
+# successes: 98 (56.0%)
+Average steps: 232.36
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=176--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 176
+# successes: 98 (55.7%)
+Average steps: 234.57692307692307
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=177--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 177
+# successes: 99 (55.9%)
+Average steps: 235.2962962962963
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=178--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 178
+# successes: 100 (56.2%)
+Average steps: 233.89285714285714
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=179--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 179
+# successes: 101 (56.4%)
+Average steps: 231.3793103448276
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=180--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 180
+# successes: 101 (56.1%)
+Average steps: 233.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=181--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 181
+# successes: 102 (56.4%)
+Average steps: 232.19354838709677
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=182--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 182
+# successes: 102 (56.0%)
+Average steps: 234.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=183--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 183
+# successes: 103 (56.3%)
+Average steps: 231.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=184--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 184
+# successes: 104 (56.5%)
+Average steps: 230.02941176470588
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=185--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 185
+# successes: 104 (56.2%)
+Average steps: 231.74285714285713
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=186--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 186
+# successes: 105 (56.5%)
+Average steps: 230.41666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=187--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 187
+# successes: 105 (56.1%)
+Average steps: 232.02702702702703
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=188--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 188
+# successes: 105 (55.9%)
+Average steps: 233.55263157894737
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=189--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 189
+# successes: 106 (56.1%)
+Average steps: 231.4102564102564
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=190--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 190
+# successes: 107 (56.3%)
+Average steps: 229.775
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=191--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 191
+# successes: 108 (56.5%)
+Average steps: 228.609756097561
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=192--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 192
+# successes: 108 (56.2%)
+Average steps: 230.07142857142858
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=193--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 193
+# successes: 109 (56.5%)
+Average steps: 230.41860465116278
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=194--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 194
+# successes: 110 (56.7%)
+Average steps: 231.1818181818182
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=195--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 195
+# successes: 111 (56.9%)
+Average steps: 229.22222222222223
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=196--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 196
+# successes: 111 (56.6%)
+Average steps: 230.54347826086956
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=197--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 197
+# successes: 112 (56.9%)
+Average steps: 228.4255319148936
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=198--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 198
+# successes: 113 (57.1%)
+Average steps: 227.0625
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=199--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 199
+# successes: 114 (57.3%)
+Average steps: 225.3673469387755
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=200--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 200
+# successes: 114 (57.0%)
+Average steps: 226.66Current task success rate: 0.58
+Current total success rate: 0.57
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=201--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 201
+# successes: 114 (56.7%)
+Average steps: 290.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=202--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 202
+# successes: 115 (56.9%)
+Average steps: 223.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=203--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 203
+# successes: 115 (56.7%)
+Average steps: 245.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=204--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 204
+# successes: 115 (56.4%)
+Average steps: 256.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=205--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 205
+# successes: 116 (56.6%)
+Average steps: 249.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=206--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 206
+# successes: 117 (56.8%)
+Average steps: 230.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=207--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 207
+# successes: 117 (56.5%)
+Average steps: 238.57142857142858
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=208--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 208
+# successes: 118 (56.7%)
+Average steps: 241.25
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=209--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 209
+# successes: 119 (56.9%)
+Average steps: 246.33333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=210--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 210
+# successes: 120 (57.1%)
+Average steps: 238.4
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=211--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 211
+# successes: 120 (56.9%)
+Average steps: 243.0909090909091
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=212--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 212
+# successes: 120 (56.6%)
+Average steps: 247.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=213--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 213
+# successes: 120 (56.3%)
+Average steps: 250.30769230769232
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=214--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 214
+# successes: 121 (56.5%)
+Average steps: 244.85714285714286
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=215--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 215
+# successes: 122 (56.7%)
+Average steps: 241.53333333333333
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=216--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 216
+# successes: 123 (56.9%)
+Average steps: 238.4375
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=217--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 217
+# successes: 123 (56.7%)
+Average steps: 241.47058823529412
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=218--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 218
+# successes: 124 (56.9%)
+Average steps: 238.77777777777777
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=219--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 219
+# successes: 125 (57.1%)
+Average steps: 233.89473684210526
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=220--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 220
+# successes: 126 (57.3%)
+Average steps: 229.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=221--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 221
+# successes: 127 (57.5%)
+Average steps: 225.47619047619048
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=222--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 222
+# successes: 127 (57.2%)
+Average steps: 228.4090909090909
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=223--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 223
+# successes: 127 (57.0%)
+Average steps: 231.08695652173913
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=224--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 224
+# successes: 127 (56.7%)
+Average steps: 233.54166666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=225--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 225
+# successes: 128 (56.9%)
+Average steps: 231.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=226--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 226
+# successes: 128 (56.6%)
+Average steps: 233.26923076923077
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=227--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 227
+# successes: 128 (56.4%)
+Average steps: 235.37037037037038
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=228--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 228
+# successes: 129 (56.6%)
+Average steps: 234.46428571428572
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=229--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 229
+# successes: 129 (56.3%)
+Average steps: 236.3793103448276
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=230--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 230
+# successes: 130 (56.5%)
+Average steps: 234.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=231--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 231
+# successes: 131 (56.7%)
+Average steps: 231.83870967741936
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=232--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 232
+# successes: 132 (56.9%)
+Average steps: 230.8125
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=233--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 233
+# successes: 132 (56.7%)
+Average steps: 232.6060606060606
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=234--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 234
+# successes: 133 (56.8%)
+Average steps: 233.3235294117647
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=235--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 235
+# successes: 133 (56.6%)
+Average steps: 234.94285714285715
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=236--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 236
+# successes: 134 (56.8%)
+Average steps: 233.55555555555554
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=237--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 237
+# successes: 134 (56.5%)
+Average steps: 235.0810810810811
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=238--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 238
+# successes: 134 (56.3%)
+Average steps: 236.52631578947367
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=239--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 239
+# successes: 135 (56.5%)
+Average steps: 235.97435897435898
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=240--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 240
+# successes: 136 (56.7%)
+Average steps: 235.625
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=241--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 241
+# successes: 136 (56.4%)
+Average steps: 236.9512195121951
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=242--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 242
+# successes: 137 (56.6%)
+Average steps: 237.5952380952381
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=243--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 243
+# successes: 137 (56.4%)
+Average steps: 238.8139534883721
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=244--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 244
+# successes: 138 (56.6%)
+Average steps: 238.04545454545453
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=245--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 245
+# successes: 139 (56.7%)
+Average steps: 236.4
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=246--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 246
+# successes: 140 (56.9%)
+Average steps: 237.30434782608697
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=247--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 247
+# successes: 140 (56.7%)
+Average steps: 238.4255319148936
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=248--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 248
+# successes: 141 (56.9%)
+Average steps: 238.29166666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=249--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 249
+# successes: 142 (57.0%)
+Average steps: 236.59183673469389
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=250--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 250
+# successes: 142 (56.8%)
+Average steps: 237.66Current task success rate: 0.56
+Current total success rate: 0.568
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=251--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 251
+# successes: 143 (57.0%)
+Average steps: 191.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=252--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 252
+# successes: 144 (57.1%)
+Average steps: 161.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=253--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 253
+# successes: 145 (57.3%)
+Average steps: 198.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=254--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 254
+# successes: 146 (57.5%)
+Average steps: 184.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=255--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 255
+# successes: 147 (57.6%)
+Average steps: 180.2
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=256--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 256
+# successes: 148 (57.8%)
+Average steps: 173.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=257--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 257
+# successes: 149 (58.0%)
+Average steps: 171.71428571428572
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=258--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 258
+# successes: 150 (58.1%)
+Average steps: 183.375
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=259--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 259
+# successes: 150 (57.9%)
+Average steps: 195.22222222222223
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=260--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 260
+# successes: 150 (57.7%)
+Average steps: 204.7
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=261--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 261
+# successes: 150 (57.5%)
+Average steps: 212.45454545454547
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=262--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 262
+# successes: 150 (57.3%)
+Average steps: 218.91666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=263--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 263
+# successes: 150 (57.0%)
+Average steps: 224.3846153846154
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=264--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 264
+# successes: 151 (57.2%)
+Average steps: 219.57142857142858
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=265--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 265
+# successes: 152 (57.4%)
+Average steps: 216.2
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=266--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 266
+# successes: 153 (57.5%)
+Average steps: 212.5625
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=267--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 267
+# successes: 154 (57.7%)
+Average steps: 209.23529411764707
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=268--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 268
+# successes: 155 (57.8%)
+Average steps: 207.72222222222223
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=269--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 269
+# successes: 156 (58.0%)
+Average steps: 204.8421052631579
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=270--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 270
+# successes: 156 (57.8%)
+Average steps: 209.1
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=271--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 271
+# successes: 156 (57.6%)
+Average steps: 212.95238095238096
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=272--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 272
+# successes: 157 (57.7%)
+Average steps: 210.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=273--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 273
+# successes: 158 (57.9%)
+Average steps: 207.6086956521739
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=274--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 274
+# successes: 159 (58.0%)
+Average steps: 206.70833333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=275--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 275
+# successes: 160 (58.2%)
+Average steps: 204.28
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=276--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 276
+# successes: 160 (58.0%)
+Average steps: 207.57692307692307
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=277--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 277
+# successes: 160 (57.8%)
+Average steps: 210.62962962962962
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=278--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 278
+# successes: 161 (57.9%)
+Average steps: 209.57142857142858
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=279--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 279
+# successes: 161 (57.7%)
+Average steps: 212.3448275862069
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=280--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 280
+# successes: 161 (57.5%)
+Average steps: 214.93333333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=281--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 281
+# successes: 162 (57.7%)
+Average steps: 214.51612903225808
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=282--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 282
+# successes: 162 (57.4%)
+Average steps: 216.875
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=283--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 283
+# successes: 163 (57.6%)
+Average steps: 217.03030303030303
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=284--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 284
+# successes: 164 (57.7%)
+Average steps: 218.23529411764707
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=285--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 285
+# successes: 164 (57.5%)
+Average steps: 220.28571428571428
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=286--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 286
+# successes: 165 (57.7%)
+Average steps: 218.30555555555554
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=287--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 287
+# successes: 166 (57.8%)
+Average steps: 216.48648648648648
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=288--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 288
+# successes: 167 (58.0%)
+Average steps: 214.28947368421052
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=289--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 289
+# successes: 167 (57.8%)
+Average steps: 216.23076923076923
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=290--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 290
+# successes: 168 (57.9%)
+Average steps: 215.6
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=291--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 291
+# successes: 168 (57.7%)
+Average steps: 217.41463414634146
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=292--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 292
+# successes: 168 (57.5%)
+Average steps: 219.14285714285714
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=293--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 293
+# successes: 168 (57.3%)
+Average steps: 220.7906976744186
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=294--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 294
+# successes: 168 (57.1%)
+Average steps: 222.36363636363637
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=295--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 295
+# successes: 169 (57.3%)
+Average steps: 220.6
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=296--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 296
+# successes: 169 (57.1%)
+Average steps: 222.1086956521739
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=297--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 297
+# successes: 170 (57.2%)
+Average steps: 220.61702127659575
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=298--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 298
+# successes: 171 (57.4%)
+Average steps: 221.77083333333334
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=299--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 299
+# successes: 171 (57.2%)
+Average steps: 223.16326530612244
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=300--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 300
+# successes: 171 (57.0%)
+Average steps: 224.5Current task success rate: 0.58
+Current total success rate: 0.57
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=301--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 301
+# successes: 172 (57.1%)
+Average steps: 224.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=302--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 302
+# successes: 173 (57.3%)
+Average steps: 202.5
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=303--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 303
+# successes: 173 (57.1%)
+Average steps: 231.66666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=304--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 304
+# successes: 173 (56.9%)
+Average steps: 246.25
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=305--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 305
+# successes: 174 (57.0%)
+Average steps: 229.0
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=306--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 306
+# successes: 175 (57.2%)
+Average steps: 224.66666666666666
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=307--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 307
+# successes: 176 (57.3%)
+Average steps: 215.14285714285714
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_11_21--episode=308--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 308
+# successes: 177 (57.5%)
+Average steps: 210.625

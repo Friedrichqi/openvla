@@ -1,0 +1,9 @@
+Task suite: libero_object
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_05_10/2025_05_10-15_05_13--episode=1--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Average steps: 172.0

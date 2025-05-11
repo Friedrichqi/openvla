@@ -129,12 +129,28 @@ def crop_and_resize(image, crop_scale, batch_size):
 
     return image
 
+def randomly_change_pixels_at_ber(image: Image.Image, **kwargs) -> Image.Image:
+    if kwargs['ber'] == 0 or kwargs['step'] < kwargs['scale'][0] or kwargs['step'] > kwargs['scale'][1]:
+        return image
+    
+    # print("image changed at step", kwargs['step'])
+    import random
+    modified_image = image.copy()
+    width, height = modified_image.size
+    pixels = modified_image.load()
+    for y in range(height):
+        for x in range(width):
+            if random.random() < kwargs['ber']:
+                random_r = random.randint(0, 255)
+                random_g = random.randint(0, 255)
+                random_b = random.randint(0, 255)
+                pixels[x, y] = (random_r, random_g, random_b)
+    return modified_image
 
-def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, center_crop=False):
+def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, center_crop=False, **kwargs):
     """Generates an action with the VLA policy."""
     image = Image.fromarray(obs["full_image"])
     image = image.convert("RGB")
-
     # (If trained with image augmentations) Center crop image and then resize back up to original size.
     # IMPORTANT: Let's say crop scale == 0.9. To get the new height and width (post-crop), multiply
     #            the original height and width by sqrt(0.9) -- not 0.9!
@@ -169,6 +185,9 @@ def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, c
         prompt = f"In: What action should the robot take to {task_label.lower()}?\nOut:"
 
     # Process inputs.
+    # ----- Begin of qyjh Inserted Code -----
+    image = randomly_change_pixels_at_ber(image, **kwargs)
+    # ----- End of qyjh Inserted Code -----
     inputs = processor(prompt, image).to(DEVICE, dtype=torch.bfloat16)
 
     # Get action.
